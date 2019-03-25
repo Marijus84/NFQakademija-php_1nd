@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "files" : [
+      "src/functions.php",
+      "src/functions_strict.php"
+    ]
+  },
+  
+  "require": {
+    "nesbot/carbon": "^1.36"
+  }
+}
